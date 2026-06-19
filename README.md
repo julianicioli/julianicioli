@@ -6,9 +6,9 @@
 ##
 
 <div align="center">
-  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=julianicioli&theme=midnight_purple">
-  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=julianicioli&theme=midnight_purple">
-  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=julianicioli&theme=midnight_purple&utcOffset=8">
+  <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=julianicioli&theme=midnight_purple">
+  <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=julianicioli&theme=midnight_purple">
+  <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=julianicioli&theme=midnight_purple&utcOffset=8">
 </div>
 
 <div align="center" style="display: inline_block"><br>
