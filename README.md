@@ -8,7 +8,7 @@
 <div align="center">
   <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=julianicioli&theme=midnight_purple">
   <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=julianicioli&theme=midnight_purple">
-  <img height="400" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=julianicioli&theme=midnight_purple&utcOffset=8">
+  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=julianicioli&theme=midnight_purple&utcOffset=8">
 </div>
 
 ##
@@ -30,3 +30,11 @@
   <a href = "mailto:julianicioli92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/julia-nicioli-cutri" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+</picture>
