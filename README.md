@@ -35,3 +35,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/julianicioli/julianicioli/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/julianicioli/julianicioli/output/pacman-contribution-graph.svg">
 </picture>
+
+# Obrigada por visitar meu perfil!!✨<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0d78f045-8e97-4d70-a519-617bde6b3f08" />
